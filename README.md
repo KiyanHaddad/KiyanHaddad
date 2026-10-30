@@ -5,6 +5,16 @@
 
 I build useful services, test how they behave, and document the result. My current focus is a hands-on IT lab, alongside software projects.
 
+## Selected work
+
+### [HomeLab](https://github.com/KiyanHaddad/HomeLab)
+
+**Linux service · Guided build**
+
+A Pi-hole DNS service administered over SSH. The completed test follows an **allowed → blocked → restored** request, with client results, server-side reasons and sanitized proof.
+
+[Project report](https://github.com/KiyanHaddad/HomeLab/blob/main/docs/pi-hole-project-report.md) · [DNS evidence](https://github.com/KiyanHaddad/HomeLab/blob/main/evidence/images/dns-cycle.png)
+
 **Used in this lab**
 
 <p>
@@ -15,27 +25,15 @@ I build useful services, test how they behave, and document the result. My curre
   <img src="assets/tool-pi.svg" alt="Raspberry Pi 4" width="98">
 </p>
 
-## Lab milestones
+**Build evidence**
 
-Custom project milestones from guided work. **Each patch opens real evidence.** These represent project results, not vendor certifications or GitHub achievements.
-
-The Pi milestone covers guided Debian/Linux work on the Raspberry Pi. The spare-laptop Linux setup is still planned.
+These custom project patches link to evidence from guided Raspberry Pi Debian/Linux work; they are not vendor certifications or GitHub achievements. The spare-laptop Linux setup is still planned.
 
 <p>
-  <a href="https://github.com/KiyanHaddad/HomeLab/blob/main/results/2026-10-17-pi-foundation.md"><img src="assets/milestone-linux.svg" alt="Pi server setup milestone — guided Raspberry Pi Debian/Linux setup results" width="156"></a>
-  <a href="https://github.com/KiyanHaddad/HomeLab/blob/main/evidence/2026-10-16-terminal-extract.md"><img src="assets/milestone-ssh.svg" alt="SSH remote access milestone — read the captured terminal evidence" width="156"></a>
-  <a href="https://github.com/KiyanHaddad/HomeLab/blob/main/docs/pi-hole-project-report.md#testing-dns-behavior"><img src="assets/milestone-dns.svg" alt="DNS block and restore milestone — read the completed explicit-client test" width="156"></a>
+  <a href="https://github.com/KiyanHaddad/HomeLab/blob/main/results/2026-10-17-pi-foundation.md"><img src="assets/milestone-linux.svg" alt="Pi Server Setup — guided Raspberry Pi Debian/Linux setup results" width="156"></a>
+  <a href="https://github.com/KiyanHaddad/HomeLab/blob/main/evidence/2026-10-16-terminal-extract.md"><img src="assets/milestone-ssh.svg" alt="SSH Remote Access — read the captured terminal evidence" width="156"></a>
+  <a href="https://github.com/KiyanHaddad/HomeLab/blob/main/docs/pi-hole-project-report.md#testing-dns-behavior"><img src="assets/milestone-dns.svg" alt="DNS Block &amp; Restore — read the completed explicit-client test" width="156"></a>
 </p>
-
-## Selected work
-
-### [HomeLab](https://github.com/KiyanHaddad/HomeLab)
-
-**Linux service · Guided build**
-
-A Pi-hole DNS service administered over SSH. The completed test follows an **allowed → blocked → restored** request, with client results, server-side reasons and sanitized proof.
-
-[Project report](https://github.com/KiyanHaddad/HomeLab/blob/main/docs/pi-hole-project-report.md) · [DNS evidence](https://github.com/KiyanHaddad/HomeLab/blob/main/evidence/images/dns-cycle.png)
 
 ### [Book Tracker](https://github.com/KiyanHaddad/Book-Tracker-Springboard-Software-Engineering-Capstone)
 
