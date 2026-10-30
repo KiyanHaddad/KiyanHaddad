@@ -8,7 +8,7 @@ I build useful services, test how they behave, and document the result. My curre
 **Used in this lab**
 
 <p>
-  <img src="assets/tool-linux.svg" alt="Linux" width="98">
+  <img src="assets/tool-linux.svg" alt="Linux (Pi)" width="98">
   <img src="assets/tool-ssh.svg" alt="SSH" width="98">
   <img src="assets/tool-dns.svg" alt="DNS" width="98">
   <img src="assets/tool-git.svg" alt="Git" width="98">
@@ -19,10 +19,12 @@ I build useful services, test how they behave, and document the result. My curre
 
 Custom project milestones from guided work. **Each patch opens real evidence.** These represent project results, not vendor certifications or GitHub achievements.
 
+The Pi milestone covers guided Debian/Linux work on the Raspberry Pi. The spare-laptop Linux setup is still planned.
+
 <p>
-  <a href="https://github.com/KiyanHaddad/HomeLab/blob/main/results/2026-10-17-pi-foundation.md"><img src="assets/milestone-linux.svg" alt="Linux foundation milestone — read the recorded Pi setup results" width="156"></a>
+  <a href="https://github.com/KiyanHaddad/HomeLab/blob/main/results/2026-10-17-pi-foundation.md"><img src="assets/milestone-linux.svg" alt="Pi server setup milestone — guided Raspberry Pi Debian/Linux setup results" width="156"></a>
   <a href="https://github.com/KiyanHaddad/HomeLab/blob/main/evidence/2026-10-16-terminal-extract.md"><img src="assets/milestone-ssh.svg" alt="SSH remote access milestone — read the captured terminal evidence" width="156"></a>
-  <a href="https://github.com/KiyanHaddad/HomeLab/blob/main/docs/pi-hole-project-report.md#testing-dns-behavior"><img src="assets/milestone-dns.svg" alt="DNS control cycle milestone — read the allowed, blocked and restored test" width="156"></a>
+  <a href="https://github.com/KiyanHaddad/HomeLab/blob/main/docs/pi-hole-project-report.md#testing-dns-behavior"><img src="assets/milestone-dns.svg" alt="DNS block and restore milestone — read the completed explicit-client test" width="156"></a>
 </p>
 
 ## Selected work
